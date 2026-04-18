@@ -1,4 +1,4 @@
-```markdown
+
 # 🐋 RZZ ROZA Whale Tracker
 
 Real-time whale transaction monitor for **Bitcoin** and **45+ EVM chains**.  
@@ -161,4 +161,3 @@ Version: 1.0.0-Beta
 This project is provided for educational and informational purposes only.
 Use at your own risk. The author is not responsible for any financial decisions made based on this tool.
 
-```
